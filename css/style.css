@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 25px;
+    color: rgb(72, 72, 216);
+    list-style: none;
+}
+
+.partners {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.partners img {
+    width: 50px;
+}

@@ -1,0 +1,47 @@
+
+.container {
+    width: 1224px;
+    margin: auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 30px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.services .title {
+    text-align: center;
+}
+
+.services {
+    margin-top: 10%;
+}
+
+.inline_services {
+    display: flex;
+    gap: 30px;
+}
+
+.inline_services .cards {
+    padding:  10px;
+    border: 1px solid black;
+
+}
+   

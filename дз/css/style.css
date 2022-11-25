@@ -1,0 +1,64 @@
+.container {
+    width: 1324px;
+    margin: auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 35px;
+    color: rgb(98, 228, 98);
+    list-style: none;
+}
+
+.partners {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.partners img {
+    width: 60px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    gap: 35px;
+}
+
+.card {
+    width: 20%;
+    border: 1px solid rgb(234, 201, 151);
+    padding: 13px;
+    border-radius: 10%;
+}
+.card img {
+    width: 100%;
+    border-radius: 20%;
+}
+
+footer {
+    background-color: aqua;
+    padding: 50px 0;
+    margin-top: 100px;
+}
+
+.footer h2 {
+    margin: 0;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
